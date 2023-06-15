@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoobCarl
 - 👀 I’m interested on programming, nba and videogames!
-- 🌱 I’m currently learning C# and Unity!
+- 🌱 I’m currently learning Web development using Javascript, HTML and CSS!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with dolorcarlmanuel19@gmail.com
 
